@@ -1,0 +1,19 @@
+Accounts Stores
+    *Username
+    *Account Type
+alerts Stores
+    *
+Bills Stores
+    *number of bills in the machine of each type.
+
+id Stores
+    account id
+
+Login Stores
+    *Username
+    *Password
+
+New Employee Stores
+    *
+Outgoing Stores
+    *

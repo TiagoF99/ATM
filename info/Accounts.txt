@@ -1,0 +1,21 @@
+chenpan LineOfCredit 1950 1 1,-,200
+chenpan Chequing 1700 6 true 6,+,100
+chenpan SuperSavings 115 16 16,+,15
+ted LineOfCredit 1110 17 17,+,1000
+ted LineOfCredit -2600 18 18,-,500
+ted CreditCard -800 19 19,+,400
+ted Chequing 3290 20 true 20,-,680
+ted CreditCard 0 21 21,+,680
+ted Chequing 3100 22 false 22,+,100
+123123 Chequing 27500 23 true 23,-,500
+123123 Chequing 2000 24 false 24,+,2000
+123123 CreditCard 0 25 none
+123123 CreditCard 0 26 none
+123123 LineOfCredit 0 27 27,-,500
+man Chequing 570 28 true 28,-,500
+man LineOfCredit -1000 29 29,-,1000
+man3 Chequing 50 32 true 32,-,50
+man3 LineOfCredit -450 33 33,-,500
+122 SuperSavings 320 34 34,+,330
+man5 LineOfCredit 0 36 36,+,0
+man5 Chequing 65 37 true 37,+,0
