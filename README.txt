@@ -1,3 +1,9 @@
+This program was built following a few design princliples and patterns.
+MVC and AccountFactory were used to split up the code. Some solid princliples like Depedency Injection as well as single responsibility
+were used in the code for cleaner and more effecient code. Every class and method has a comment on its specific functionality.
+
+The front end was developed using the .swing package.
+========================================================================================================================================
 Our program Instructions:
 
 You have two options with our program:
